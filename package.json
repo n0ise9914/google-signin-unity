@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "displayName": "Google Sign-In API plugin",
   "description": "Google Sign-In API plugin for Unity game engine.  Works with Android and iOS.",
-  "unity": "2018.3",
+  "unity": "2019.3",
   "unityRelease": "6f1",
   "dependencies": {},
   "keywords": [
